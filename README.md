@@ -8,7 +8,7 @@ These instructions will guide you on setting up the project on your local machin
 
 ### Prerequisites
 
-- PHP >= 8.1
+- PHP >= 8.2
 - Composer
 - MySQL
 
